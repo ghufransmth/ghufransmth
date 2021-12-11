@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi!, I'm Ghufran, Mobile Developer!
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghufran-9a4a2263/)](https://www.linkedin.com/in/ghufran-9a4a2263/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:franssmith7@gmail.com)](mailto:franssmith7@gmail.com) 
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/franssmith7)](https://www.hackerrank.com/franssmith7)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/ghufransv_/)](https://www.instagram.com/ghufransv_/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ghufransmth.franco)
+
+**I'm Ghufran, Software Engineering at SemarangExcode, interested about Programming, deeply in Android Development & Competitive Programming, more about me in **
 
 <!--
 **ghufransmth/ghufransmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
